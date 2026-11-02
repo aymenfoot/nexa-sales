@@ -3,7 +3,7 @@
 # COPY THIS FILE TO shopify.app.toml AND FILL IN YOUR ACTUAL VALUES
 
 client_id = "your_shopify_app_client_id_here"
-name = "ihear.ai"
+name = "nexa-sales"
 handle = "ihear-ai"
 application_url = "https://your-tunnel-url.trycloudflare.com"
 embedded = true
